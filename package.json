@@ -1,6 +1,6 @@
 {
   "name": "@fathym-it/lcu-azure-log-workspace-with-app-insights",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "@fathym-it/lcu-azure-log-workspace-with-app-insights",
   "author": "Fathym, Inc",
   "main": "lcu.json",
