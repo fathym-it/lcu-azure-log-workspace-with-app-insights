@@ -1,0 +1,10 @@
+{
+  "Package": {
+    "Name": "Azure Log Analytics Workspace with Application Insights",
+    "Description": "An LCU for installing @fathym-it/lcu-azure-log-workspace-with-app-insights.",
+    "Image": "https://www.fathym.com/assets/images/logo.png",
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png"
+  },
+  "EaC": "./assets/eac.json",
+  "Parameters": "./assets/parameters.json"
+}
